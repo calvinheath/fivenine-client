@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fivenine-client/static/css/main.3447e5c7.css",
+    "main.js": "/fivenine-client/static/js/main.3b62068c.js",
+    "static/js/787.52e8be26.chunk.js": "/fivenine-client/static/js/787.52e8be26.chunk.js",
+    "static/media/awaacc.png": "/fivenine-client/static/media/awaacc.2d50fc3eadbd6134668e.png",
+    "static/media/mongodb.png": "/fivenine-client/static/media/mongodb.034a879dd35b9c411763.png",
+    "static/media/coupang.png": "/fivenine-client/static/media/coupang.4a78fb5c1531cf51a578.png",
+    "static/media/pinterest.png": "/fivenine-client/static/media/pinterest.8ce1ff8a080039096b71.png",
+    "static/media/athelas.png": "/fivenine-client/static/media/athelas.3c3bec837f6fb66723fd.png",
+    "static/media/slack.png": "/fivenine-client/static/media/slack.5045846e098967581647.png",
+    "static/media/planet.png": "/fivenine-client/static/media/planet.018b6204eb61d07856ce.png",
+    "static/media/cloud9.png": "/fivenine-client/static/media/cloud9.1bfcdc341242d0348812.png",
+    "static/media/ecl.png": "/fivenine-client/static/media/ecl.c23e759655938e824085.png",
+    "index.html": "/fivenine-client/index.html",
+    "main.3447e5c7.css.map": "/fivenine-client/static/css/main.3447e5c7.css.map",
+    "main.3b62068c.js.map": "/fivenine-client/static/js/main.3b62068c.js.map",
+    "787.52e8be26.chunk.js.map": "/fivenine-client/static/js/787.52e8be26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3447e5c7.css",
+    "static/js/main.3b62068c.js"
+  ]
+}
