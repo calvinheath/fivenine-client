@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/fivenine-client/static/css/main.af9d2422.css",
-    "main.js": "/fivenine-client/static/js/main.461b47ca.js",
-    "static/js/787.52e8be26.chunk.js": "/fivenine-client/static/js/787.52e8be26.chunk.js",
-    "static/media/awaacc.png": "/fivenine-client/static/media/awaacc.2d50fc3eadbd6134668e.png",
-    "static/media/remote.png": "/fivenine-client/static/media/remote.a1e6b5742616e59df687.png",
-    "static/media/mongodb.png": "/fivenine-client/static/media/mongodb.034a879dd35b9c411763.png",
-    "static/media/coupang.png": "/fivenine-client/static/media/coupang.4a78fb5c1531cf51a578.png",
-    "static/media/pinterest.png": "/fivenine-client/static/media/pinterest.8ce1ff8a080039096b71.png",
-    "static/media/athelas.png": "/fivenine-client/static/media/athelas.3c3bec837f6fb66723fd.png",
-    "static/media/slack.png": "/fivenine-client/static/media/slack.5045846e098967581647.png",
-    "static/media/planet.png": "/fivenine-client/static/media/planet.018b6204eb61d07856ce.png",
-    "static/media/cloud9.png": "/fivenine-client/static/media/cloud9.1bfcdc341242d0348812.png",
-    "static/media/ecl.png": "/fivenine-client/static/media/ecl.c23e759655938e824085.png",
-    "static/media/FiveNineLogo.svg": "/fivenine-client/static/media/FiveNineLogo.5095cf052158f024692111b86e952bde.svg",
-    "index.html": "/fivenine-client/index.html",
-    "main.af9d2422.css.map": "/fivenine-client/static/css/main.af9d2422.css.map",
-    "main.461b47ca.js.map": "/fivenine-client/static/js/main.461b47ca.js.map",
-    "787.52e8be26.chunk.js.map": "/fivenine-client/static/js/787.52e8be26.chunk.js.map"
+    "main.css": "/static/css/main.af9d2422.css",
+    "main.js": "/static/js/main.bdf97f31.js",
+    "static/js/787.52e8be26.chunk.js": "/static/js/787.52e8be26.chunk.js",
+    "static/media/awaacc.png": "/static/media/awaacc.2d50fc3eadbd6134668e.png",
+    "static/media/remote.png": "/static/media/remote.a1e6b5742616e59df687.png",
+    "static/media/mongodb.png": "/static/media/mongodb.034a879dd35b9c411763.png",
+    "static/media/coupang.png": "/static/media/coupang.4a78fb5c1531cf51a578.png",
+    "static/media/pinterest.png": "/static/media/pinterest.8ce1ff8a080039096b71.png",
+    "static/media/athelas.png": "/static/media/athelas.3c3bec837f6fb66723fd.png",
+    "static/media/slack.png": "/static/media/slack.5045846e098967581647.png",
+    "static/media/planet.png": "/static/media/planet.018b6204eb61d07856ce.png",
+    "static/media/cloud9.png": "/static/media/cloud9.1bfcdc341242d0348812.png",
+    "static/media/ecl.png": "/static/media/ecl.c23e759655938e824085.png",
+    "static/media/FiveNineLogo.svg": "/static/media/FiveNineLogo.5095cf052158f024692111b86e952bde.svg",
+    "index.html": "/index.html",
+    "main.af9d2422.css.map": "/static/css/main.af9d2422.css.map",
+    "main.bdf97f31.js.map": "/static/js/main.bdf97f31.js.map",
+    "787.52e8be26.chunk.js.map": "/static/js/787.52e8be26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af9d2422.css",
-    "static/js/main.461b47ca.js"
+    "static/js/main.bdf97f31.js"
   ]
 }
